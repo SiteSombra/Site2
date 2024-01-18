@@ -1,0 +1,48 @@
+body { 
+  
+    background-color: BlueViolet;
+    text-align: center;
+    color: white;
+    
+  }
+  
+  #titulo {
+    
+    color: LawnGreen;
+  font-family: Cursive;
+  border-style: dotted;
+  border-width: 10px;
+    
+  }
+  
+  #g1 {
+    
+    color: black;
+    
+  }
+  #h {
+    
+    color: DeepSkyBlue;
+  font-size: 25px;
+    
+  }
+  
+  #giras {
+    
+    width: 260px;
+  height: 250px;
+    
+  }
+  
+  #asd {
+    
+    color: orange;
+    
+  }
+  
+  
+  
+  
+  
+  
+  
